@@ -1,0 +1,16 @@
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\App.g.cs
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary_MarkupCompile.cache
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary_MarkupCompile.lref
+C:\Users\Alexandra\source\repos\interractive_dictionary\bin\Debug\interractive_dictionary.exe.config
+C:\Users\Alexandra\source\repos\interractive_dictionary\bin\Debug\interractive_dictionary.exe
+C:\Users\Alexandra\source\repos\interractive_dictionary\bin\Debug\interractive_dictionary.pdb
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.g.resources
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.exe
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary.pdb
+C:\Users\Alexandra\source\repos\interractive_dictionary\obj\Debug\interractive_dictionary_Content.g.cs
